@@ -1,14 +1,50 @@
 main{
     margin: 30px 5px;
+   
 }
-#title{
-    width: 100%;
-    margin-top: 50px;
-    font-size: 40px;
-    justify-content: center;
+
+#title {
     text-align: center;
+    margin-top: 50px;
+    font-size: 5vh;
+    background-color: grey;
     padding: 5vh;
-}
-#span{
+  }
+  
+  #img-div {
+    justify-content: center;
+    margin-top: 30px;
+    
+  }
+  
+  #image {
+    max-width: 100%;
+    height: 80vh;
+    display: block;
+    margin: 0 auto;
+
+  }
+  
+  #img-caption {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 2vh;
+    font-style: bold;
+  }
+  
+  #tribute-info {
+    text-align: justify;
+    margin-top: 30px;
+    justify-content: center;
+  }
+  
+  #tribute-link {
+    display: block;
+    text-align: center;
+    margin-top: 30px;
     font-weight: bold;
-}
+  }
+  img{
+    display: block;
+  }
+
